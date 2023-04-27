@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(219, 204, 183);
+    color: rgb(61, 47, 148);
+    font-family: "Montserrat", sans-serif;
+}   
+
+
+/* .header {
+    border: 2px solid green;
+    padding: 30px 70px 90px 70px;
+    max-width: 80%;
+    margin: auto;
+  } */
+  
+  .header {
+    /* border: 2px solid yellow; */
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    max-width: 760px;    
+  } 
+
+.hello{
+    /* border: 2px solid green; */
+    text-align: center;
+    
+    font-weight: 600;
+    font-size: 30px;
+    margin: 10px;
+}
+
+
+.minhafoto{
+    border-radius: 50%;
+    background-color: rgb(118, 98, 136);
+    padding: 10px;
+    max-width: 300px;
+    
+}
+    
+.skills{
+    text-align: center;
+    /* border: 2px solid yellow; */
+    margin: auto;
+    padding: 20px;
+    max-width: 400px;   
+}
+ul{
+    text-align: left;
+}
+.social{
+    text-align: center;
+}
+.imagemsocial{
+    width: 80px;
+}
